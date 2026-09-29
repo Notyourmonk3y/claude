@@ -16,7 +16,7 @@ Do the whole job without asking unless a number is truly unreadable.
    parallel lot lines between two streets grow by a constant amount per 100'. When a
    handwritten number doesn't fit, try the similar-looking digit (3↔2, 8↔6) that makes it close.
    If a street width isn't shown, scale it from the plat.
-3. **Write a Python script** that follows `cad/landa_park_plat.py`. It must produce:
+3. **Write a Python script** that follows `cad/26-0234_landa-park-highlands/landa_park_plat.py`. It must produce:
    - a `.dxf`: one closed polyline per lot on `LOTS`, street lines on `STREETS`, street names
      on `STREET-NAME`, lot numbers on `LOT-NUM`, plat dimensions on `DIM`, block labels on `BLOCK`
    - an `.svg` preview
