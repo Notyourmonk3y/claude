@@ -153,10 +153,10 @@ street_label(add(mid(pe(700), pe(700, -STREET_W)), PA, 0), PA, "N 26-59' W")
 street_label(add(ny(600), az(bearing_az("S", 1, 38, "W")), STREET_W / 2), NY, "NEW YORK AVE.  N 88-22' W")
 street_label(add(va(700), az(bearing_az("N", 25, 21, "E")), STREET_W / 2), VA, "VIRGINIA BOULEVARD  N 64-39' W")
 street_label(add(pe(520, 350), PQ, STREET_W / 2), PA, "VIRGINIA BLVD.")
-texts.append((*pw(900, 150), 30, text_angle(PA), "BLK 1", "BLOCK"))
+texts.append((*pw(1050, 380), 30, text_angle(PA), "BLK 1", "BLOCK"))
 bc, _ = centroid(lots[-6][2]); texts.append((bc[0] + 60, bc[1] + 40, 30, 0, "BLK 2", "BLOCK"))
 b3 = add(ny(700), az(bearing_az("S", 1, 38, "W")), 250); texts.append((*b3, 30, 0, "BLK 3", "BLOCK"))
-texts.append((*add(pe(-500, -STREET_W), PQ, -420), 26, 0,
+texts.append((*add(pe(-950, -STREET_W), PQ, 150), 26, 0,
                "RE-SUBDIVISION, PARK HIGHLANDS No. 2 - COMAL CO., TX   SCALE 1\"=200'", "TITLE"))
 
 # plat dimensions placed on their lines

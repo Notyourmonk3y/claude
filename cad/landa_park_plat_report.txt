@@ -1,0 +1,43 @@
+LANDA PARK PLAT - lot areas (closed polylines)
+
+Block 1 Lot  3:      30000 sq ft  (0.689 ac)
+Block 1 Lot  4:      30000 sq ft  (0.689 ac)
+Block 1 Lot  5:      30000 sq ft  (0.689 ac)
+Block 1 Lot  6:      30000 sq ft  (0.689 ac)
+Block 1 Lot  7:      30000 sq ft  (0.689 ac)
+Block 1 Lot  8:      30000 sq ft  (0.689 ac)
+Block 1 Lot  9:      30000 sq ft  (0.689 ac)
+Block 1 Lot 10:      30000 sq ft  (0.689 ac)
+Block 1 Lot 11:      30000 sq ft  (0.689 ac)
+Block 1 Lot 12:      30000 sq ft  (0.689 ac)
+Block 1 Lot 13:      30000 sq ft  (0.689 ac)
+Block 1 Lot 14:      30000 sq ft  (0.689 ac)
+Block 1 Lot 15:      30000 sq ft  (0.689 ac)
+Block 1 Lot 16:      30000 sq ft  (0.689 ac)
+Block 1 Lot 17:      30000 sq ft  (0.689 ac)
+Block 1 Lot 18:      30000 sq ft  (0.689 ac)
+Block 1 Lot 19:      30000 sq ft  (0.689 ac)
+Block 1 Lot  2:      18849 sq ft  (0.433 ac)
+Block 1 Lot  1:      13680 sq ft  (0.314 ac)
+Block 2 Lot 12:      31250 sq ft  (0.717 ac)
+Block 2 Lot 11:      30000 sq ft  (0.689 ac)
+Block 2 Lot 10:      35000 sq ft  (0.803 ac)
+Block 2 Lot  9:      35000 sq ft  (0.803 ac)
+Block 2 Lot  8:      35000 sq ft  (0.803 ac)
+Block 2 Lot  6:      59186 sq ft  (1.359 ac)
+Block 2 Lot  5:      45038 sq ft  (1.034 ac)
+Block 2 Lot  4:      67702 sq ft  (1.554 ac)
+Block 2 Lot  3:      67046 sq ft  (1.539 ac)
+Block 2 Lot  7:      27490 sq ft  (0.631 ac)
+Block 2 Lot  2:      23468 sq ft  (0.539 ac)
+Block 2 Lot  1:      55427 sq ft  (1.272 ac)
+
+Checks against plat:
+  424.42' line computed: 439.15'
+  383 1/3' line computed: 383.64'
+  36' cutoff at SE tip computed: 45.73'
+  Lot 4 Virginia frontage computed: 65.26' (not labeled)
+
+Assumptions: street widths 60'; Block 1 placed 540' south of Block 2 along
+Pennsylvania (scaled); lot 4/5 line parallel to Pennsylvania; NY Ave read as N 88-22 W;
+lot number '7' in Block 2 as read - verify.
